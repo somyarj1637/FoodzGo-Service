@@ -1,5 +1,7 @@
 # FoodzGo-Service
 This is a full stack Food delivery website which is made-up using Pug, CSS , Javascript, Node.JS , MongoDB and IDE-VS code
+## Pre-requirements:
+1. You must have Node.js and MongoDB installed on your system.
 
 ## Steps to operate:
 1. Open app.js on Microsoft VS code.
